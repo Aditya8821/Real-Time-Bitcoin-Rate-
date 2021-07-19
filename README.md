@@ -1,4 +1,4 @@
-# Real-Time Bitcoin Rate
+# Real-Time💹 Bitcoin Rate💲
 Here is a python script which checks the Real-Time💹 Bitcoin rates💸 in INR.
 - **BeautifulSoup:**
 BeautifulSoup is a python library for pulling data out of HTML and XML files
@@ -17,5 +17,5 @@ As we all know very well that bitcoin price is a fickle thing. You never really 
 - pass required class name as argument in soup.find() function.
 - print the output in terms of INR
 ## Sample Output:
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/Aditya8821/Real-Time-Bitcoin-Rate-/blob/main/Images/Demo%20Output.png"></p>
 Feedbacks Would Be Welcomed🙌
